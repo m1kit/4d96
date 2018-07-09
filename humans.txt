@@ -1,0 +1,13 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Takehiro Inohara -- Professor
+  Senpai -- Planner
+  Hirokazu Matsuura -- Planner
+  Mikihito Matsuura -- Developer -- @m1kit
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3
