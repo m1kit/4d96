@@ -3,11 +3,12 @@
 
 # TEAM
 
-  Takehiro Inohara -- Professor
-  Senpai -- Planner
+  Takehiro Inohara  -- Professor
+  Yuki Kitamura     -- Planner
   Hirokazu Matsuura -- Planner
   Mikihito Matsuura -- Developer -- @m1kit
 
 # TECHNOLOGY COLOPHON
 
-  HTML5, CSS3
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
