@@ -1489,12 +1489,6 @@ decompress@^3.0.0:
     vinyl-assign "^1.0.1"
     vinyl-fs "^2.2.0"
 
-deep-assign@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/deep-assign/-/deep-assign-2.0.0.tgz#ebe06b1f07f08dae597620e3dd1622f371a1c572"
-  dependencies:
-    is-obj "^1.0.0"
-
 deep-extend@~0.4.0:
   version "0.4.1"
   resolved "https://registry.yarnpkg.com/deep-extend/-/deep-extend-0.4.1.tgz#efe4113d08085f4e6f9687759810f807469e2253"
@@ -1826,18 +1820,9 @@ escope@^3.3.0:
     esrecurse "^4.1.0"
     estraverse "^4.1.1"
 
-eslint-config-google@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-google/-/eslint-config-google-0.3.0.tgz#bc024830ad4d9b7a1a36f469b6e867fa1cc602bd"
-  dependencies:
-    deep-assign "^2.0.0"
-    eslint-config-xo "^0.7.0"
-
-eslint-config-xo@^0.7.0:
-  version "0.7.1"
-  resolved "https://registry.yarnpkg.com/eslint-config-xo/-/eslint-config-xo-0.7.1.tgz#1900821359d46420097160b6c57c8e2eecbbbf1b"
-  dependencies:
-    deep-assign "^2.0.0"
+eslint-config-google@^0.14.0:
+  version "0.14.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-google/-/eslint-config-google-0.14.0.tgz#4f5f8759ba6e11b424294a219dbfa18c508bcc1a"
 
 eslint@^1.4.0:
   version "1.10.3"
